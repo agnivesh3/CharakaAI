@@ -1,0 +1,38 @@
+{
+  "timestamp": "2024-07-07T21:00:00.000000",
+  "book": {
+    "title": "Charaka Samhita",
+    "volume": 1,
+    "section": 1,
+    "chapter": 1,
+    "chapter_name": "Longevity",
+    "sanskrit_verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "अथातो दीर्घञ्जीवितीयमध्यायं व्याख्यास्यामः"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "इति ह स्माह भगवानात्रेयः"
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "दीर्घञ्जीवितमन्विच्छन्भरद्वाज उपागमत् । इन्द्रमुग्रतपा बुद्ध्वा शरण्यममरेश्वरम्"
+      },
+      // ... other Sanskrit verses
+    ],
+    "verse_pairings": [
+      {
+        "verse_number": 1,
+      },
+      {
+        "verse_number": 2,
+      },
+      {
+        "verse_number": 3,
+      },
+      {
+        "verse_group": [4, 5],
+    ]
+  }
+}

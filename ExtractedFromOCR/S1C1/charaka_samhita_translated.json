@@ -1,0 +1,849 @@
+{
+  "timestamp": "2024-07-08T10:02:17.789918",
+  "book": {
+    "title": "Charaka Samhita",
+    "volume": 1,
+    "section": 1,
+    "chapter": 1,
+    "chapter_name": "Longevity",
+    "sanskrit_verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "सूत्रस्थानम् प्रथमोऽध्यायः अथातो दीर्घञ्जीवितीयमध्यायं व्याख्यास्यामः",
+        "transliteration": "sūtrasthānam prathamo'dhyāyaḥ athāto dīrghañjīvitīyamadhyāyaṃ vyākhyāsyāmaḥ",
+        "translation": "The Sutra Sthana Chapter I. Now let us explain the second chapter of the longevity"
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "इति ह स्माह भगवानात्रेयः",
+        "transliteration": "iti ha smāha bhagavānātreyaḥ",
+        "translation": "This is what the Lord Atreyu said to us"
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "दीर्घञ्जीवितमन्विच्छन्भरद्वाज उपागमत् । इन्द्रमुग्रतपा बुद्ध्वा शरण्यममरेश्वरम्",
+        "transliteration": "dīrghañjīvitamanvicchanbharadvāja upāgamat | indramugratapā buddhvā śaraṇyamamareśvaram",
+        "translation": "Seeking a long life, Bharadwaja approached him. Knowing Indra, the lord of the gods, to be the refuge of his severe austerities"
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "१०० ब्राह्मणा हि यथाप्रोक्तमायुर्वेदं प्रजापतिः । जग्राह निखिलेनादावश्विनौ तु पुनस्तत",
+        "transliteration": "100 brāhmaṇā hi yathāproktamāyurvedaṃ prajāpatiḥ | jagrāha nikhilenādāvaśvinau tu punastata",
+        "translation": "100 The Brahmanas, as stated above, are the creators of the Ayurveda. He took Nikhilenada and the two Aśvinī-kumāras again and again"
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "अश्विभ्यां भगवाञ्छक्रः प्रतिपेदे ह केवलम् । ऋषिप्रोक्तो भरद्वाजस्तस्माच्छक्रमुपागमत्",
+        "transliteration": "aśvibhyāṃ bhagavāñchakraḥ pratipede ha kevalam | ṛṣiprokto bharadvājastasmācchakramupāgamat",
+        "translation": "Lord Indra, the lord of the Aśvinī-kumāras, gave him only one gift. Then Bharadwaja, instructed by the sage, approached Indra"
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "विघ्नभूता यदा रोगाः प्रादुर्भूताः शरीरिणाम् । तपोपवासाध्ययनब्रह्मचर्यव्रतायुषाम्",
+        "transliteration": "vighnabhūtā yadā rogāḥ prādurbhūtāḥ śarīriṇām | tapopavāsādhyayanabrahmacaryavratāyuṣām",
+        "translation": "When diseases appear as obstacles to the body, They lived in austerities, fasting, study, celibacy and vows"
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "तदा भूतेष्वनुक्रोशं पुरस्कृत्य महर्षयः । समेताः पुण्यकर्माणः पार्श्वे हिमवतः शुभे",
+        "transliteration": "tadā bhūteṣvanukrośaṃ puraskṛtya maharṣayaḥ | sametāḥ puṇyakarmāṇaḥ pārśve himavataḥ śubhe",
+        "translation": "At that time the great sages rewarded compassion for all living beings They gathered together on the side of the auspicious Himalayan mountain for pious deeds"
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "शा अङ्गिरा जमदग्निश्च वसिष्ठः कश्यपो भृगुः । आत्रेयो गौतमः साङ्ख्यः पुलस्त्यो नारदोऽसितः",
+        "transliteration": "śā aṅgirā jamadagniśca vasiṣṭhaḥ kaśyapo bhṛguḥ | ātreyo gautamaḥ sāṅkhyaḥ pulastyo nārado'sitaḥ",
+        "translation": "Śā, Aṅgirā, Jamadagni, Vasiṣṭha, Kaśyapa and Bhṛgu. Atreyu, Gautama, Sankhya, Pulastya, Narada and Asita"
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अगस्त्यो वामदेवश्च मार्कण्डेयाश्वलायनौ । पारिक्षिर्भिक्षुरात्रेयो भरद्वाजः कपिञ्ज ष्ठलः",
+        "transliteration": "agastyo vāmadevaśca mārkaṇḍeyāśvalāyanau | pārikṣirbhikṣurātreyo bharadvājaḥ kapiñja ṣṭhalaḥ",
+        "translation": "Agastya and Vāmadeva were the sons of Mārkaṇḍeya and Aśvalāyana. Parikshi, the monk Ratreya, Bharadvaja, Kapinja and Sthala"
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "विश्वामित्राश्मरथ्यौ च भार्गवश्यवनोऽभिजित् । गार्ग्यः शाण्डिल्यकौण्डिल्यौ न्यौ वार्क्षिर्देवलगालवौ",
+        "transliteration": "viśvāmitrāśmarathyau ca bhārgavaśyavano'bhijit | gārgyaḥ śāṇḍilyakauṇḍilyau nyau vārkṣirdevalagālavau",
+        "translation": "Viśvāmitra, Aśmarathi, Bhṛgu, Vaśyavana and Abhijit. Gargya, Shandyal and Kaundlya, and Varkshi and Devalagalava"
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "साङ्कृत्यो बैजवापिश्च कुशिको बादरायणः । बडिशः शरलोमा च काप्यकात्यायनावुभौ",
+        "transliteration": "sāṅkṛtyo baijavāpiśca kuśiko bādarāyaṇaḥ | baḍiśaḥ śaralomā ca kāpyakātyāyanāvubhau",
+        "translation": "Sāṅkṛti, Baijavāpi, Kuśika and Bādarāyaṇa. Badisha and Sharaloma were both Kapya and Katyayanas"
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "काङ्कायनः कैकशेयो धौम्यो मारीचकाश्यपौ । शर्कराक्षो हिरण्याक्षो लोकाक्षः पैङ्गिरेव च",
+        "transliteration": "kāṅkāyanaḥ kaikaśeyo dhaumyo mārīcakāśyapau | śarkarākṣo hiraṇyākṣo lokākṣaḥ paiṅgireva ca",
+        "translation": "Kāṅkāyana, Kaikaśeya, Dhaumya, Mārica and Kāśyapa. Sugar-eyed, deer-eyed, world-eyed and Paingir"
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "शौनकः शाकुनेयश्च मैत्रेयो मैमतायनिः । वैखानसा बालखिल्यास्तथा चान्ये महर्षयः",
+        "transliteration": "śaunakaḥ śākuneyaśca maitreyo maimatāyaniḥ | vaikhānasā bālakhilyāstathā cānye maharṣayaḥ",
+        "translation": "Śaunaka, Śākuneya, Maitreya and Maimatayani. Vaikhanasas, Balakhilyas and other great sages"
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "ब्रह्मज्ञानस्य निधयो दय मस्य नियमस्य च । तपसस्तेजमा दीप्ता हूयमाना इवाग्नयः",
+        "transliteration": "brahmajñānasya nidhayo daya masya niyamasya ca | tapasastejamā dīptā hūyamānā ivāgnayaḥ",
+        "translation": "Give me the treasures of knowledge of the Absolute Truth and my laws. The effulgence of his austerities shone like fires burning in sacrifice"
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "सुखोपविष्टास्ते तत्र पुण्यां चक्रुः कथामिमाम् । धर्मार्थकाममोक्षाणामारोग्यं मूलमुत्तमम्",
+        "transliteration": "sukhopaviṣṭāste tatra puṇyāṃ cakruḥ kathāmimām | dharmārthakāmamokṣāṇāmārogyaṃ mūlamuttamam",
+        "translation": "They sat comfortably there and told this pious story. Health is the best root of Dharma, Artha, Kama and Moksha"
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "कीट रोगास्तस्यापहर्तारः श्रेयसो जीवितस्य च । प्रादुर्भूतो मनुष्याणामन्तरायो महानयम्",
+        "transliteration": "kīṭa rogāstasyāpahartāraḥ śreyaso jīvitasya ca | prādurbhūto manuṣyāṇāmantarāyo mahānayam",
+        "translation": "Insects and diseases destroy his well-being and his survival. A great obstacle has arisen among men"
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "कः स्यात्तेषां शमोपाय इत्युक्त्वा ध्यानमास्थिताः । अथ ते शरणं शक्रं ददृशुर्थ्यानचक्षुषा",
+        "transliteration": "kaḥ syātteṣāṃ śamopāya ityuktvā dhyānamāsthitāḥ | atha te śaraṇaṃ śakraṃ dadṛśurthyānacakṣuṣā",
+        "translation": "They began to meditate, wondering what would be the means of their peace. Then they saw with their eyes the refuge of Indra"
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "स वक्ष्यति शमोपायं यथावदमरप्रभुः । कः सहस्राक्षभवनं गच्छेत् प्रष्टुं शचीपतिम्",
+        "transliteration": "sa vakṣyati śamopāyaṃ yathāvadamaraprabhuḥ | kaḥ sahasrākṣabhavanaṃ gacchet praṣṭuṃ śacīpatim",
+        "translation": "The lord of the immortals will explain the means of peace in detail. Who would go to the house of Sahasraksha to ask the husband of Sachi?"
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "अहमर्थे नियुज्येयमत्रेति प्रथमं वचः । भरद्वाजोऽब्रवीत्तस्मादृषिभिः स नियोजितः ।। १९ । । स शक्रभवनं गत्वा सुरर्षिगणमध्यगम् । ददर्श बलहन्तारं दीप्यमानमिवानलम्",
+        "transliteration": "ahamarthe niyujyeyamatreti prathamaṃ vacaḥ | bharadvājo'bravīttasmādṛṣibhiḥ sa niyojitaḥ || 19 | | sa śakrabhavanaṃ gatvā surarṣigaṇamadhyagam | dadarśa balahantāraṃ dīpyamānamivānalam",
+        "translation": "The first word is that I shall be employed here for the purpose Bharadwaja replied that he had been engaged by the sages 19 . . He went to the palace of Indra and was surrounded by a host of demigods and sages. He saw the destroyer of the forces burning like fire"
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "सोऽभिगम्य जयाशीर्भिरभिनन्द्य सुरेश्वरम् । प्रोवाच विनयाद्धीमानृषीणां वाक्यमुत्तमम्",
+        "transliteration": "so'bhigamya jayāśīrbhirabhinandya sureśvaram | provāca vinayāddhīmānṛṣīṇāṃ vākyamuttamam",
+        "translation": "Then Lord Kṛṣṇa approached Lord Śiva and greeted him with the blessings of victory. He humbly addressed the wise and excellent words of the sages"
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "व्याधयो हि समुत्पन्नाः सर्वप्राणिभयङ्कराः । तद्ब्रूहि मे शमोपायं यथावदमरप्रभो",
+        "transliteration": "vyādhayo hi samutpannāḥ sarvaprāṇibhayaṅkarāḥ | tadbrūhi me śamopāyaṃ yathāvadamaraprabho",
+        "translation": "Diseases have arisen which are terrible to all living beings Therefore, O lord of the immortals, tell me exactly the means of peace"
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "तस्मै प्रोवाच भगवानायुर्वेदं शतक्रतुः । पदैरल्पैर्मतिं बुद्ध्वा विपुलां परमर्षये",
+        "transliteration": "tasmai provāca bhagavānāyurvedaṃ śatakratuḥ | padairalpairmatiṃ buddhvā vipulāṃ paramarṣaye",
+        "translation": "Lord Śatakratu explained the Ayurveda to him. O great sage I understood my vast intelligence in a few steps"
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "ए हेतुलिङ्गौषधज्ञानं स्वस्थातुरपरायणम् । त्रिसूत्रं शाश्वतं पुण्यं बुबुधे यं पितामहः",
+        "transliteration": "e hetuliṅgauṣadhajñānaṃ svasthāturaparāyaṇam | trisūtraṃ śāśvataṃ puṇyaṃ bubudhe yaṃ pitāmahaḥ",
+        "translation": "A. Knowledge of cause, symptoms and medicine is devoted to the patient in his own state. The three threads which the grandfather understood to be eternally sacred"
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "सोऽनन्तपारं त्रिस्कन्धमायुर्वेदं महामतिः । यथावदचिरात् सर्वं बुबुधे तन्मना मुनिः",
+        "transliteration": "so'nantapāraṃ triskandhamāyurvedaṃ mahāmatiḥ | yathāvadacirāt sarvaṃ bubudhe tanmanā muniḥ",
+        "translation": "He was a great intellectual who taught the infinitely transcendental Triskanda Ayurveda. The sage soon understood everything as it was"
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "तेनायुरमितं लेभे भरद्वाजः सुखान्वितम् । ऋषिभ्योऽनधिकं तच्च शशंसानवशेषयन्",
+        "transliteration": "tenāyuramitaṃ lebhe bharadvājaḥ sukhānvitam | ṛṣibhyo'nadhikaṃ tacca śaśaṃsānavaśeṣayan",
+        "translation": "By this Bharadwaja attained an immeasurable life span and happiness They praised him no more than the sages"
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "ऋषयश्च भरद्वाजाज्जगृहुस्तं प्रजाहितम् । दीर्घमायुश्चिकीर्षन्तो वेदं वर्धनमायुषः",
+        "transliteration": "ṛṣayaśca bharadvājājjagṛhustaṃ prajāhitam | dīrghamāyuścikīrṣanto vedaṃ vardhanamāyuṣaḥ",
+        "translation": "The sages also took him from Bharadwaja for the welfare of the people. Wishing to live a long life, the Vedas increase life"
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "महर्षयस्ते ददृशुर्यथावज्ज्ञानचक्षुषा । सामान्यं च विशेषं च गुणान् द्रव्याणि कर्म च",
+        "transliteration": "maharṣayaste dadṛśuryathāvajjñānacakṣuṣā | sāmānyaṃ ca viśeṣaṃ ca guṇān dravyāṇi karma ca",
+        "translation": "The great sages saw it as it was with the eyes of knowledge. General and special qualities, matter and action"
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "समवायं च तज्ज्ञात्वा तन्त्रोक्तं विधिमास्थिताः । लेभिरे परमं शर्म जीवितं चाप्यनित्वरम्",
+        "transliteration": "samavāyaṃ ca tajjñātvā tantroktaṃ vidhimāsthitāḥ | lebhire paramaṃ śarma jīvitaṃ cāpyanitvaram",
+        "translation": "They knew that it was a combination and followed the method prescribed in the tantra. They attained supreme peace and their lives were not hastened"
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "अथ मैत्रीपरः पुण्यमायुर्वेदं पुनर्वसुः । शिष्येभ्यो दत्तवान् षड्भ्यः सर्वभूतानुकम्पया ।। ३० । अग्निवेशश्च भेलडश्च जतूकर्णः पराशरः । हारीतः क्षारपाणिश्च जगृहुस्तन्मुनेर्वचः",
+        "transliteration": "atha maitrīparaḥ puṇyamāyurvedaṃ punarvasuḥ | śiṣyebhyo dattavān ṣaḍbhyaḥ sarvabhūtānukampayā || 30 | agniveśaśca bhelaḍaśca jatūkarṇaḥ parāśaraḥ | hārītaḥ kṣārapāṇiśca jagṛhustanmunervacaḥ",
+        "translation": "Then Punarvasu, who was devoted to friendship, taught the holy Ayurveda. Out of compassion for all beings he gave it to the six disciples 30 . Agnivesh, Bhelada, Jatukarna and Paraśara. Harita and Ksharapani accepted the words of the sage"
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "बुद्धेर्विशेषस्तत्रासोन्नोपदेशान्तरं मुनेः । तन्त्रस्य कर्ता प्रथममग्निवेशो यतोऽभवत्",
+        "transliteration": "buddherviśeṣastatrāsonnopadeśāntaraṃ muneḥ | tantrasya kartā prathamamagniveśo yato'bhavat",
+        "translation": "There is no difference between the intelligence and the sage’s instruction. The author of the tantra was the first Agnivesh because he was"
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "अथ भेलादयश्चक्रुः स्वं स्वं तन्त्रं कृतानि च । श्रावयामासुरात्रेयं सर्विसङ्घ सुमेधसः",
+        "transliteration": "atha bhelādayaścakruḥ svaṃ svaṃ tantraṃ kṛtāni ca | śrāvayāmāsurātreyaṃ sarvisaṅgha sumedhasaḥ",
+        "translation": "Then Bhela and others performed their own rituals. All the hosts of intelligent demons recited this night"
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "श्रुत्वा सूत्रणमर्थानामृषयः पुण्यकर्मणाम् । यथावत्सूत्रितमिति प्रहृष्टास्तेऽनुमेनिरे",
+        "transliteration": "śrutvā sūtraṇamarthānāmṛṣayaḥ puṇyakarmaṇām | yathāvatsūtritamiti prahṛṣṭāste'numenire",
+        "translation": "Hearing the formulation of the meanings of the pious deeds the sages They were delighted and agreed that it had been formulated properly"
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "सर्व एवास्तुवंस्तांश्च सर्वभूतहितैषिणः । साधु भूतेष्वनुक्रोश इत्युच्चैरब्रुवन् समम्",
+        "transliteration": "sarva evāstuvaṃstāṃśca sarvabhūtahitaiṣiṇaḥ | sādhu bhūteṣvanukrośa ityuccairabruvan samam",
+        "translation": "All of them, desiring the welfare of all beings, praised them. \"Well done have compassion for beings,\" they shouted in unison"
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "तं पुण्यं शुश्रुवुः शब्दं दिवि देवर्षयः स्थिताः । सामराः परमर्षीणां श्रुत्वा मुमुदिरे परम्",
+        "transliteration": "taṃ puṇyaṃ śuśruvuḥ śabdaṃ divi devarṣayaḥ sthitāḥ | sāmarāḥ paramarṣīṇāṃ śrutvā mumudire param",
+        "translation": "The demigods and sages who were present in heaven heard that pious sound The Samaras were overjoyed to hear the words of the great sages"
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "अहो साध्विति निर्घोषो लोकांस्त्रीनन्ववा ना दयत् । नभसि स्निग्धगम्भीरो हर्षाद्भूतैरुदीरितः",
+        "transliteration": "aho sādhviti nirghoṣo lokāṃstrīnanvavā nā dayat | nabhasi snigdhagambhīro harṣādbhūtairudīritaḥ",
+        "translation": "The sound of the cry, “Oh, well done!” did not spare the three worlds. The sky was smooth and deep, and the ghosts uttered it with joy"
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "शिवो वायुर्ववौ सर्वा भाभिरुन्मीलिता दिशः । निपेतुः सजलाश्चैव दिव्याः कुसुमवृष्टयः",
+        "transliteration": "śivo vāyurvavau sarvā bhābhirunmīlitā diśaḥ | nipetuḥ sajalāścaiva divyāḥ kusumavṛṣṭayaḥ",
+        "translation": "The auspicious wind blew, and all directions were opened by the rays of the sun. Divine showers of flowers fell with water"
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "अथाग्निवेशप्रमुखान् विविशुर्ज्ञानदेवताः । बुद्धिः सिद्धिः स्मृतिर्मेधा धृतिः कीर्तिः क्षमा दया",
+        "transliteration": "athāgniveśapramukhān viviśurjñānadevatāḥ | buddhiḥ siddhiḥ smṛtirmedhā dhṛtiḥ kīrtiḥ kṣamā dayā",
+        "translation": "Then the demigods of knowledge, headed by Agniveśa, entered the city. Intelligence, perfection, memory, intelligence, patience, fame, forgiveness, mercy"
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "तानि चानुमतान्येषां तन्त्राणि परमर्षिभिः । भ भा वाय भूतसङ्घानां प्रतिष्ठां भुवि लेभिरे",
+        "transliteration": "tāni cānumatānyeṣāṃ tantrāṇi paramarṣibhiḥ | bha bhā vāya bhūtasaṅghānāṃ pratiṣṭhāṃ bhuvi lebhire",
+        "translation": "The great sages also permitted these systems of others. They gained the establishment of hosts of ghosts on earth for the sake of Bh"
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "हिताहितं सुखं दुःखमायुस्तस्य हिताहितम् । मानं च तच्च यत्रोक्तमायुर्वेदः स उच्यते । । ४१ ।। शरीरेन्द्रियसत्त्वात्मसंयोगो धारि जीवितम् । नित्यगश्चानुबन्धश्च पर्यायैरायुरुच्यते",
+        "transliteration": "hitāhitaṃ sukhaṃ duḥkhamāyustasya hitāhitam | mānaṃ ca tacca yatroktamāyurvedaḥ sa ucyate | | 41 || śarīrendriyasattvātmasaṃyogo dhāri jīvitam | nityagaścānubandhaśca paryāyairāyurucyate",
+        "translation": "His good and evil, happiness, pain and life are his good and evil. The value and that which is mentioned in the Ayurveda is called that. . 41 ।। The union of the body, senses, essence and self sustains life. Eternal movement and consequence are called life by the synonyms"
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "तस्यायुषः पुण्यतमो वेदो वेदविदां मतः । वक्ष्यते यन्मनुष्याणां लोकयोरुभयोर्हितम्",
+        "transliteration": "tasyāyuṣaḥ puṇyatamo vedo vedavidāṃ mataḥ | vakṣyate yanmanuṣyāṇāṃ lokayorubhayorhitam",
+        "translation": "The Vedas are considered by the Vedic scholars to be the most sacred of his life. It will be said that it is good for both the worlds of men"
+      },
+      {
+        "verse_number": 44,
+        "sanskrit": "।",
+        "transliteration": "|",
+        "translation": "।"
+      },
+      {
+        "verse_number": 45,
+        "sanskrit": "सर्वदा सर्वभावानां सामान्यं वृद्धिकारणम् । ह्रासहेतुर्विशेषश्च प्रवृत्तिरुभयस्य तु ।। ४४ । । सामान्यमेकत्वकरं विशेषस्तु पृथक्त्वकृत् । तुल्यार्थता हि सामान्यं विशेषस्तु विपर्ययः",
+        "transliteration": "sarvadā sarvabhāvānāṃ sāmānyaṃ vṛddhikāraṇam | hrāsaheturviśeṣaśca pravṛttirubhayasya tu || 44 | | sāmānyamekatvakaraṃ viśeṣastu pṛthaktvakṛt | tulyārthatā hi sāmānyaṃ viśeṣastu viparyayaḥ",
+        "translation": "It is always the common cause of growth of all emotions. The cause of decline and the distinction are the instincts of both 44 . . The general causes unity, while the special causes separation. For equivalence is the general, and special is the opposite"
+      },
+      {
+        "verse_number": 46,
+        "sanskrit": "सत्त्वमात्मा शरीरं च त्रयमेतत्त्रिदण्डवत् । लोकस्तिष्ठति संयोगात्तत्र सर्वं प्रतिष्ठितम्",
+        "transliteration": "sattvamātmā śarīraṃ ca trayametattridaṇḍavat | lokastiṣṭhati saṃyogāttatra sarvaṃ pratiṣṭhitam",
+        "translation": "The three modes of nature, namely the mode of goodness, the self and the body, are like three rods. The world exists by union, and everything is established there"
+      },
+      {
+        "verse_number": 47,
+        "sanskrit": "स पुमांश्चेतनं तच्च तच्चाधिकरणं स्मृतम् । वेदस्यास्य तदर्थं हि वेदोऽयं संप्रकाशितः",
+        "transliteration": "sa pumāṃścetanaṃ tacca taccādhikaraṇaṃ smṛtam | vedasyāsya tadarthaṃ hi vedo'yaṃ saṃprakāśitaḥ",
+        "translation": "That person is the consciousness and that is the authority of that person. For that is the purpose of this Veda, for this Veda has been revealed"
+      },
+      {
+        "verse_number": 48,
+        "sanskrit": "खादीन्यात्मा मनः कालो दिशश्च द्रव्यसंग्रहः । सेन्द्रियं चेतनं द्रव्यं निरिन्द्रियमचेतनम्",
+        "transliteration": "khādīnyātmā manaḥ kālo diśaśca dravyasaṃgrahaḥ | sendriyaṃ cetanaṃ dravyaṃ nirindriyamacetanam",
+        "translation": "The food is the soul, the mind, the time, the directions and the collection of matter. Conscious matter with the senses is unconscious without the senses"
+      },
+      {
+        "verse_number": 49,
+        "sanskrit": "साथ गुर्वादयो बुद्धिः प्रयत्नान्ताः परादयः । गुणाः प्रोक्ताः प्रयत्नादि कर्म चेष्टितमुच्यते",
+        "transliteration": "sātha gurvādayo buddhiḥ prayatnāntāḥ parādayaḥ | guṇāḥ proktāḥ prayatnādi karma ceṣṭitamucyate",
+        "translation": "With the teacher and others, intelligence, effort, others and others. The qualities are stated, and action, such as effort, is called action"
+      },
+      {
+        "verse_number": 50,
+        "sanskrit": "समवायोऽपृथग्भावो भूम्यादीनां गुणैर्मतः । स नित्यो यत्र हि द्रव्यं न तत्रानियतो गुणः",
+        "transliteration": "samavāyo'pṛthagbhāvo bhūmyādīnāṃ guṇairmataḥ | sa nityo yatra hi dravyaṃ na tatrāniyato guṇaḥ",
+        "translation": "The combination of the elements is considered to be indistinguishable from the modes of nature. That is eternal, for where there is no matter, there is no infinite quality"
+      },
+      {
+        "verse_number": 51,
+        "sanskrit": "यत्राश्रिताः कर्मगुणाः कारणं समवायि यत् । तद्द्द्रव्यं समवायी तु निश्चेष्टः कारणं गुणः",
+        "transliteration": "yatrāśritāḥ karmaguṇāḥ kāraṇaṃ samavāyi yat | tadddravyaṃ samavāyī tu niśceṣṭaḥ kāraṇaṃ guṇaḥ",
+        "translation": "The cause of the combination in which the modes of action depend. That matter is the compound, but the inactive cause is the quality"
+      },
+      {
+        "verse_number": 52,
+        "sanskrit": "संयोगे च विभागे च कारणं द्रव्यमाश्रितम् । कर्तव्यस्य क्रिया कर्म कर्म नान्यदपेक्षते",
+        "transliteration": "saṃyoge ca vibhāge ca kāraṇaṃ dravyamāśritam | kartavyasya kriyā karma karma nānyadapekṣate",
+        "translation": "The cause of combination and division depends on the substance. The action of the duty, the action, the action, requires nothing else"
+      },
+      {
+        "verse_number": 53,
+        "sanskrit": "इत्युक्तं कारणं कार्यं धातुसाम्यमिहोच्यते । धातुसाम्यक्रिया चोक्ता तन्त्रस्यास्य प्रयोजनम्",
+        "transliteration": "ityuktaṃ kāraṇaṃ kāryaṃ dhātusāmyamihocyate | dhātusāmyakriyā coktā tantrasyāsya prayojanam",
+        "translation": "The cause and effect mentioned above is here called the equality of the elements. The action of metal equilibrium is also the purpose of this system"
+      },
+      {
+        "verse_number": 54,
+        "sanskrit": "कालबुद्धीन्द्रियार्थानां योगो मिथ्या न चाति च । द्वयाश्रयाणां व्याधीनां त्रिविधो हेतुसंग्रहः",
+        "transliteration": "kālabuddhīndriyārthānāṃ yogo mithyā na cāti ca | dvayāśrayāṇāṃ vyādhīnāṃ trividho hetusaṃgrahaḥ",
+        "translation": "The combination of time, intelligence, senses and objects is false and does not transcend. There are three kinds of cause collections for diseases of dual dependence"
+      },
+      {
+        "verse_number": 55,
+        "sanskrit": "शरीरं सत्त्वसंज्ञं च व्याधीनामाश्रयो मतः । तथा सुखानां योगस्तु सुखानां कारणं समः",
+        "transliteration": "śarīraṃ sattvasaṃjñaṃ ca vyādhīnāmāśrayo mataḥ | tathā sukhānāṃ yogastu sukhānāṃ kāraṇaṃ samaḥ",
+        "translation": "The body, which is called Sattva, is considered to be the source of disease. Similarly, the Yoga of pleasures is the equal cause of pleasures"
+      },
+      {
+        "verse_number": 56,
+        "sanskrit": "निर्विकारः परस्त्वात्मा सत्त्वभूतगुणेन्द्रियैः । चैतन्ये कारणं नित्यो द्रष्टा पश्यति हि क्रियाः",
+        "transliteration": "nirvikāraḥ parastvātmā sattvabhūtaguṇendriyaiḥ | caitanye kāraṇaṃ nityo draṣṭā paśyati hi kriyāḥ",
+        "translation": "The transcendental Self is transcendental to the modes of nature and the senses. The cause in consciousness is the eternal seer, for he sees the actions"
+      },
+      {
+        "verse_number": 57,
+        "sanskrit": "वायुः पित्तं कफश्चोक्तः शारीरो दोषसंग्रहः । मानसः पुनरुद्दिष्टो रजश्च तम एव च",
+        "transliteration": "vāyuḥ pittaṃ kaphaścoktaḥ śārīro doṣasaṃgrahaḥ | mānasaḥ punaruddiṣṭo rajaśca tama eva ca",
+        "translation": "Air, bile and phlegm are said to be the collection of body evils. The mind is again mentioned as Rajas and Tamas"
+      },
+      {
+        "verse_number": 58,
+        "sanskrit": "प्रशाम्यत्यौषधैः पूर्वो दैवयुक्तिव्यपाश्रयैः । मानसो ज्ञानविज्ञानधैर्यस्मृतिसमाधिभिः",
+        "transliteration": "praśāmyatyauṣadhaiḥ pūrvo daivayuktivyapāśrayaiḥ | mānaso jñānavijñānadhairyasmṛtisamādhibhiḥ",
+        "translation": "The former is relieved by medicines and by relying on the logic of fate. The mind by knowledge, wisdom, patience, memory and meditation"
+      },
+      {
+        "verse_number": 59,
+        "sanskrit": "रूक्षः शीतो लघुः सूक्ष्मश्चलोऽथ विशदः खरः । विपरीतगुणैर्द्रव्यैर्मारुतः संप्रशाम्यति",
+        "transliteration": "rūkṣaḥ śīto laghuḥ sūkṣmaścalo'tha viśadaḥ kharaḥ | viparītaguṇairdravyairmārutaḥ saṃpraśāmyati",
+        "translation": "They are rough, cold, light, subtle, moving, and sharp. The wind is calmed by substances of opposite properties"
+      },
+      {
+        "verse_number": 60,
+        "sanskrit": "सस्नेहमुष्णं तीक्ष्णं च द्रवमम्लं सरं कटु । विपरीतगुणैः पित्तं द्रव्यैराशु प्रशाम्यति",
+        "transliteration": "sasnehamuṣṇaṃ tīkṣṇaṃ ca dravamamlaṃ saraṃ kaṭu | viparītaguṇaiḥ pittaṃ dravyairāśu praśāmyati",
+        "translation": "It is oily, hot, sharp, liquid, acidic, juicy and bitter. Bile is quickly relieved by substances with the opposite properties"
+      },
+      {
+        "verse_number": 61,
+        "sanskrit": "गुरुशीतमृदुस्निग्धमधुरस्थिरपिच्छिलाः । श्लेष्मणः प्रशमं यान्ति विपरीतगुणैर्गुणाः",
+        "transliteration": "guruśītamṛdusnigdhamadhurasthirapicchilāḥ | śleṣmaṇaḥ praśamaṃ yānti viparītaguṇairguṇāḥ",
+        "translation": "They are heavy, cold, soft, greasy, sweet, stable and mucous. The virtues of the mucus are relieved by the opposite virtues"
+      },
+      {
+        "verse_number": 62,
+        "sanskrit": "विपरीतगुणैर्देशमात्राकालोपपादितैः । भेषजैर्विनिवर्तन्ते विकाराः साध्यसंमताः",
+        "transliteration": "viparītaguṇairdeśamātrākālopapāditaiḥ | bheṣajairvinivartante vikārāḥ sādhyasaṃmatāḥ",
+        "translation": "They are produced by the opposite qualities of place, size and time. The disorders agreed to be achievable are relieved by medicines"
+      },
+      {
+        "verse_number": 63,
+        "sanskrit": "साधनं न त्वसाध्यानां व्याधीनामुपदिश्यते । भूयश्चातो यथाद्रव्यं गुणकर्माणि वक्ष्यते",
+        "transliteration": "sādhanaṃ na tvasādhyānāṃ vyādhīnāmupadiśyate | bhūyaścāto yathādravyaṃ guṇakarmāṇi vakṣyate",
+        "translation": "The means, however, are not recommended for incurable diseases. Furthermore, the modes and actions will be described according to the matter"
+      },
+      {
+        "verse_number": 64,
+        "sanskrit": "रसनार्थो रसस्तस्य द्रव्यमापः क्षितिस्तथा । निर्वृत्तौ च विशेषे च प्रत्ययाः खादयस्त्रयः",
+        "transliteration": "rasanārtho rasastasya dravyamāpaḥ kṣitistathā | nirvṛttau ca viśeṣe ca pratyayāḥ khādayastrayaḥ",
+        "translation": "The meaning of taste is taste, and its substance is water and earth. There are three suffixes, such as food, in the renunciation and in the special"
+      },
+      {
+        "verse_number": 65,
+        "sanskrit": "स्वादुरम्लोऽथ लवणः कटुकस्तिक्त एव च । कषायश्चेति षट्कोऽयं रसानां संग्रहः स्मृतः",
+        "transliteration": "svāduramlo'tha lavaṇaḥ kaṭukastikta eva ca | kaṣāyaśceti ṣaṭko'yaṃ rasānāṃ saṃgrahaḥ smṛtaḥ",
+        "translation": "They are sweet, sour, salty, bitter and pungent. This sixth collection of juices is called alkali"
+      },
+      {
+        "verse_number": 66,
+        "sanskrit": "स्वाद्वम्ललवणा वायुं कषायस्वादुतिक्तकाः । जयन्ति पित्तं श्लेष्माणं कषायकटुतिक्तकाः",
+        "transliteration": "svādvamlalavaṇā vāyuṃ kaṣāyasvādutiktakāḥ | jayanti pittaṃ śleṣmāṇaṃ kaṣāyakaṭutiktakāḥ",
+        "translation": "They are tasty, acidic and salty, and the air is alkaline and bitter in taste. They conquer bile and mucus, alkaline, bitter and pungent"
+      },
+      {
+        "verse_number": 67,
+        "sanskrit": "कट्वम्ललवणाः पित्तं स्वाद्वम्ललवणाः कफम् । कटुतिक्तकषायाश्च कोपयन्ति समीरणम् ।। १ किंचिद्दोषप्रशमनं किंचिद्धातुप्रदूषणम् । स्वस्थवृत्तौ मतं किंचित्त्रिविधं द्रव्यमुच्यते",
+        "transliteration": "kaṭvamlalavaṇāḥ pittaṃ svādvamlalavaṇāḥ kapham | kaṭutiktakaṣāyāśca kopayanti samīraṇam || 1 kiṃciddoṣapraśamanaṃ kiṃciddhātupradūṣaṇam | svasthavṛttau mataṃ kiṃcittrividhaṃ dravyamucyate",
+        "translation": "Bitter acids and salts are bile, sweet acids and salts are phlegm. Bitter and pungent alkaloids irritate the breeze 1 Some relief of defects and some pollution of metals Something considered in healthy behavior is called a threefold matter"
+      },
+      {
+        "verse_number": 68,
+        "sanskrit": "तत् पुनस्त्रिविधं प्रोक्तं जाङ्गमं भौममौद्भिदम् । मधूनि गोरसाः पित्तं वसा मज्जाऽसृगामिषम्",
+        "transliteration": "tat punastrividhaṃ proktaṃ jāṅgamaṃ bhaumamaudbhidam | madhūni gorasāḥ pittaṃ vasā majjā'sṛgāmiṣam",
+        "translation": "That, again, is said to be of three kinds, namely, Jāṅgama, Bhūma and Maudbhida. Honey, cow's milk, bile, fat, marrow, blood and meat"
+      },
+      {
+        "verse_number": 69,
+        "sanskrit": "विण्मूत्रचर्मरतोस्थिस्नायुशृङ्गनखाः खुराः । जङ्गमेभ्यः प्रयुज्यन्ते केशा लोमानि रोचनाः",
+        "transliteration": "viṇmūtracarmaratosthisnāyuśṛṅganakhāḥ khurāḥ | jaṅgamebhyaḥ prayujyante keśā lomāni rocanāḥ",
+        "translation": "They are covered with feces, urine, skin, bones, muscles, horns, nails and hooves. The hair and wool are used for movable objects"
+      },
+      {
+        "verse_number": 70,
+        "sanskrit": "सुवर्णं समलाः पञ्च लोहाः ससिकता सुधा । मनःशिलाले मणयो लवणं गैरिकाञ्जने",
+        "transliteration": "suvarṇaṃ samalāḥ pañca lohāḥ sasikatā sudhā | manaḥśilāle maṇayo lavaṇaṃ gairikāñjane",
+        "translation": "Gold is equal to the five iron elements Sasikata is nectar Gems in the rock of the mind, salt in the ointment of the garlic"
+      },
+      {
+        "verse_number": 71,
+        "sanskrit": "भौममौषधमुद्दिष्टमौद्भिदं तु चतुर्विधम् । वनस्पतिस्तथा वीरुद्धानस्पत्यस्तथौषधिः",
+        "transliteration": "bhaumamauṣadhamuddiṣṭamaudbhidaṃ tu caturvidham | vanaspatistathā vīruddhānaspatyastathauṣadhiḥ",
+        "translation": "There are four kinds of medicinal herbs mentioned above. The plant and the herb and the plant and the herb"
+      },
+      {
+        "verse_number": 72,
+        "sanskrit": "फलैर्वनस्पतिः पुष्पैर्वानस्पत्यः फलैरपि । औषध्यः फलपाकान्ताः प्रतानैर्वीरुधः स्मृताः",
+        "transliteration": "phalairvanaspatiḥ puṣpairvānaspatyaḥ phalairapi | auṣadhyaḥ phalapākāntāḥ pratānairvīrudhaḥ smṛtāḥ",
+        "translation": "A tree with fruits and flowers and a tree with fruits Herbs are considered to be fruit-ripening plants by the pratanas"
+      },
+      {
+        "verse_number": 73,
+        "sanskrit": "मूलत्वक्सारनिर्यासनाल स्वरसपल्लवाः । क्षाराः क्षीरं फलं पुष्पं भस्म तैलानि कण्टकाः",
+        "transliteration": "mūlatvaksāraniryāsanāla svarasapallavāḥ | kṣārāḥ kṣīraṃ phalaṃ puṣpaṃ bhasma tailāni kaṇṭakāḥ",
+        "translation": "The roots, bark, essence, roots, and leaves are the source of the juice. Salts, milk, fruits, flowers, ashes, oils, thorns"
+      },
+      {
+        "verse_number": 74,
+        "sanskrit": "पत्राणि शुङ्गाः कन्दाश्च प्ररोहाचौद्भिदो गणः । मूलिन्यः षोडशैकोना फलिन्यो विंशतिः स्मृताः",
+        "transliteration": "patrāṇi śuṅgāḥ kandāśca prarohācaudbhido gaṇaḥ | mūlinyaḥ ṣoḍaśaikonā phalinyo viṃśatiḥ smṛtāḥ",
+        "translation": "The leaves, stalks, tubers, sprouts and sprouts are the clusters. Sixteen roots and twenty fruits are mentioned"
+      },
+      {
+        "verse_number": 75,
+        "sanskrit": "महास्नेहाश्च चत्वारः पञ्चैव लवणानि च । अष्टौ मूत्राणि संख्यातान्यष्टावेव पयांसि च",
+        "transliteration": "mahāsnehāśca catvāraḥ pañcaiva lavaṇāni ca | aṣṭau mūtrāṇi saṃkhyātānyaṣṭāveva payāṃsi ca",
+        "translation": "There are four great oils and five salts. Eight urine counts and eight milks"
+      },
+      {
+        "verse_number": 76,
+        "sanskrit": "शोधनार्थाश्च षड् वृक्षाः पुनर्वसुनिदर्शिताः । य एतान् वेत्ति संयोक्तुं विकारेषु स वेदवित्",
+        "transliteration": "śodhanārthāśca ṣaḍ vṛkṣāḥ punarvasunidarśitāḥ | ya etān vetti saṃyoktuṃ vikāreṣu sa vedavit",
+        "translation": "Six trees are indicated by Punarvasu for purification He who knows how to combine these in transformations is a knower of the Vedas"
+      },
+      {
+        "verse_number": 77,
+        "sanskrit": "हस्तिदन्ती हैमवती श्यामा त्रिवृदधोगुडा । सप्तला श्वेतनामा च प्रत्यक्श्रेणी गवाक्ष्यपि",
+        "transliteration": "hastidantī haimavatī śyāmā trivṛdadhoguḍā | saptalā śvetanāmā ca pratyakśreṇī gavākṣyapi",
+        "translation": "The elephant-toothed Haimavatī is black and the three-fold lower jaw. There are seven white cows and a direct row of cows"
+      },
+      {
+        "verse_number": 78,
+        "sanskrit": "ज्योतिष्मती च बिम्बी च शणपुष्पी विषाणिका । अजगन्धा द्रवन्ती च क्षीरिणी चात्र षोडशी",
+        "transliteration": "jyotiṣmatī ca bimbī ca śaṇapuṣpī viṣāṇikā | ajagandhā dravantī ca kṣīriṇī cātra ṣoḍaśī",
+        "translation": "Jyotishmati, Bimbi, Shanapushpi and Vishanika. The sixteenth is the dragon-scented and the liquid and the milky"
+      },
+      {
+        "verse_number": 79,
+        "sanskrit": "शणपुष्पी च बिम्बी च च्छर्दने हैमवत्यपि । श्वेता ज्योतिष्मती चैव योज्या शीर्षविरेचने",
+        "transliteration": "śaṇapuṣpī ca bimbī ca cchardane haimavatyapi | śvetā jyotiṣmatī caiva yojyā śīrṣavirecane",
+        "translation": "The hemp flower and the bimbi are also used in the winter. White and bright should be used for headache"
+      },
+      {
+        "verse_number": 81,
+        "sanskrit": "एकादशावशिष्टा याः प्रयोज्यास्ता विरेचने । इत्युक्ता नामकर्मभ्यां मूलिन्यः शङ्खिन्यथ विडङ्गानि त्रपुषं मदनानि च । फलिनीः शृणु ।।८० ॥ धामार्गवमथेक्ष्वाकु जीमूतं कृतवेधनम् । आनूपं स्थलजं चैव क्लीतकं द्विविधं स्मृतम्",
+        "transliteration": "ekādaśāvaśiṣṭā yāḥ prayojyāstā virecane | ityuktā nāmakarmabhyāṃ mūlinyaḥ śaṅkhinyatha viḍaṅgāni trapuṣaṃ madanāni ca | phalinīḥ śṛṇu ||80 || dhāmārgavamathekṣvāku jīmūtaṃ kṛtavedhanam | ānūpaṃ sthalajaṃ caiva klītakaṃ dvividhaṃ smṛtam",
+        "translation": "The remaining eleven are to be used for defecation. Thus addressed by the names and rituals, the roots, conchshells, viḍaṅgas, trapuṣa and madāna were offered. Hear the fruits. Dhāmargava, Ikshvāku, and Jimūta were pierced. There are two kinds of klitaka, the anup and the sthalja"
+      },
+      {
+        "verse_number": 82,
+        "sanskrit": "प्रकीर्या चोदकीर्या च प्रत्यक्पुष्पा तथाऽभया । अन्तः कोटरपुष्पी च हस्तिपर्ण्याश्च शारदम्",
+        "transliteration": "prakīryā codakīryā ca pratyakpuṣpā tathā'bhayā | antaḥ koṭarapuṣpī ca hastiparṇyāśca śāradam",
+        "translation": "They are scattered and sprinkled with water, and they are directly flowering and fearless. Inside there are cave flowers and elephant leaves in autumn"
+      },
+      {
+        "verse_number": 83,
+        "sanskrit": "कम्पिल्लकारग्वधयोः फलं यत् कुटजस्य च । धामार्गवमथेक्ष्वाकु जीमूतं कृतवेधनम्",
+        "transliteration": "kampillakāragvadhayoḥ phalaṃ yat kuṭajasya ca | dhāmārgavamathekṣvāku jīmūtaṃ kṛtavedhanam",
+        "translation": "The fruits of the killing of the Kampilla and the cow are also known as the fruits of the Kutaja. Dhamargavamatha Ikshvaku Jimutama kritavedhanam"
+      },
+      {
+        "verse_number": 84,
+        "sanskrit": "मदनं कुटजं चैव त्रपुषं हस्तिपर्णिनी । एतानि वमने चैव योज्यान्यास्थापनेषु च",
+        "transliteration": "madanaṃ kuṭajaṃ caiva trapuṣaṃ hastiparṇinī | etāni vamane caiva yojyānyāsthāpaneṣu ca",
+        "translation": "Madana, Kutaja, Trapusha and Hastiparnini are also mentioned. These should be used for vomiting and for other placements"
+      },
+      {
+        "verse_number": 85,
+        "sanskrit": "नस्तः प्रच्छर्दने चैव प्रत्यक्पुष्पा विधीयते । दश यान्यवशिष्टानि तान्युक्तानि विरेचने",
+        "transliteration": "nastaḥ pracchardane caiva pratyakpuṣpā vidhīyate | daśa yānyavaśiṣṭāni tānyuktāni virecane",
+        "translation": "Direct flowers are prescribed for covering the nose. The ten remaining ones are added to the defecation"
+      },
+      {
+        "verse_number": 86,
+        "sanskrit": "नामकर्मभिरुक्तानि फलान्येकोनविंशतिः । सर्पिस्तैलं वसा मज्जा स्नेहो दिष्टश्चतुर्विधः",
+        "transliteration": "nāmakarmabhiruktāni phalānyekonaviṃśatiḥ | sarpistailaṃ vasā majjā sneho diṣṭaścaturvidhaḥ",
+        "translation": "There are twenty-one fruits mentioned in the names and actions. There are four kinds of butter, oil, fat, marrow and grease"
+      },
+      {
+        "verse_number": 87,
+        "sanskrit": "पानाभ्यञ्जनबस्त्यर्थं नस्यार्थं चैव योगतः । स्नेहना जीवना वर्ण्य बलोपचयवर्धनाः",
+        "transliteration": "pānābhyañjanabastyarthaṃ nasyārthaṃ caiva yogataḥ | snehanā jīvanā varṇya balopacayavardhanāḥ",
+        "translation": "It is also used for drinking, eating, coughing and for the nose. Describing life with affection and increasing strength metabolism"
+      },
+      {
+        "verse_number": 88,
+        "sanskrit": "स्नेहा होते च विहिता वातपित्तकफापहाः । सौवर्चलं सैन्धवं च विडमौद्भिदमेव च",
+        "transliteration": "snehā hote ca vihitā vātapittakaphāpahāḥ | sauvarcalaṃ saindhavaṃ ca viḍamaudbhidameva ca",
+        "translation": "They are prescribed as oils and hots and relieve wind, bile and phlegm. Sauvarchal and Sandhava and Vidamaudbhida"
+      },
+      {
+        "verse_number": 89,
+        "sanskrit": "सामुद्रेण सहैतानि पञ्च स्युर्लवणानि च । स्निग्धान्युष्णानि तीक्ष्णानि दीपनीयतमानि च",
+        "transliteration": "sāmudreṇa sahaitāni pañca syurlavaṇāni ca | snigdhānyuṣṇāni tīkṣṇāni dīpanīyatamāni ca",
+        "translation": "These five salts, along with the ocean, are the same. They are greasy, hot, sharp and most inflammatory"
+      },
+      {
+        "verse_number": 90,
+        "sanskrit": "आलेपनार्थे युज्यन्ते स्नेहस्वेदविधौ तथा । अधोभागोर्ध्वभागेषु निरूहेष्वनुवासने",
+        "transliteration": "ālepanārthe yujyante snehasvedavidhau tathā | adhobhāgordhvabhāgeṣu nirūheṣvanuvāsane",
+        "translation": "They are used for ointment and in the method of lubrication and sweating. In perfume in the lower and upper parts of the trees"
+      },
+      {
+        "verse_number": 91,
+        "sanskrit": "अभ्यञ्जने भोजनार्थे शिरसश्च विरेचने । शस्त्रकर्मणि वर्त्यर्थमञ्जनोत्सादनेषु च",
+        "transliteration": "abhyañjane bhojanārthe śirasaśca virecane | śastrakarmaṇi vartyarthamañjanotsādaneṣu ca",
+        "translation": "When applying ointment, when eating, and when defecating on the head. and in the destruction of ointment for the purpose of making weapons"
+      },
+      {
+        "verse_number": 92,
+        "sanskrit": "अजीर्णानाहयोर्वाते गुल्मे शूले तथोदरे । श उक्तानि लवणा नि न्यू ऊ र्ध्वं मूत्राण्यष्टौ निबोध मे",
+        "transliteration": "ajīrṇānāhayorvāte gulme śūle tathodare | śa uktāni lavaṇā ni nyū ū rdhvaṃ mūtrāṇyaṣṭau nibodha me",
+        "translation": "In indigestion, in the wind, in the bush, in the spine, and in the stomach. S mentioned salts ni new oo upwards eight urine listen to me"
+      },
+      {
+        "verse_number": 95,
+        "sanskrit": "। युक्तमास्थापने मूत्रं युक्तं चापि विरेचने",
+        "transliteration": "| yuktamāsthāpane mūtraṃ yuktaṃ cāpi virecane",
+        "translation": ". Urine is appropriate for installation and appropriate for defecation"
+      },
+      {
+        "verse_number": 99,
+        "sanskrit": "।। ९८ ।",
+        "transliteration": "|| 98 |",
+        "translation": "।। ९८ ।"
+      },
+      {
+        "verse_number": 93,
+        "sanskrit": "मुख्यानि यानि दिष्टानि सर्वाण्यात्रेयशासने । अविमूत्रमजामूत्रं गोमूत्रं माहिषं च यत्",
+        "transliteration": "mukhyāni yāni diṣṭāni sarvāṇyātreyaśāsane | avimūtramajāmūtraṃ gomūtraṃ māhiṣaṃ ca yat",
+        "translation": "All the main things that are given in the Atreyu rule. That which is not urine, goat urine, cow urine and buffalo urine"
+      },
+      {
+        "verse_number": 100,
+        "sanskrit": "हस्तिमूत्रमथोष्ट्रस्य हयस्य च खरस्य च । उष्णं तीक्ष्णमथोऽरूक्षं कटुकं लवणान्वितम् ।। ९४ । मूत्रमुत्सादने युक्तं युक्तमालेपनेषु च । स्वेदेष्वपि च तद्युक्तमानाहेष्वगदेषु च उदरेष्वथ चार्शः सु गुल्मिकुष्ठिकिलासिषु तद्युक्तमुपनाहेषु परिषेके तथैव च । दीपनीयं विषघ्नं च क्रिमिघ्नं चोपदिश्यते पाण्डुरोगोपसृष्टानामुत्तमं शर्म चोच्यते । श्लेष्माणं शमयेत् पीतं मारुतं चानुलोमयेत् कर्षेत् पित्तमधोभागमित्यस्मिन् गुणसंग्रहः । सामान्येन मयोक्तस्तु पृथक्त्वेन प्रवक्ष्यते अविमूत्रं सतिक्तं स्यात् स्निग्धं पित्ताविरोधि च । आजं कषायमधुरं पथ्यं दोषान्निहन्ति च",
+        "transliteration": "hastimūtramathoṣṭrasya hayasya ca kharasya ca | uṣṇaṃ tīkṣṇamatho'rūkṣaṃ kaṭukaṃ lavaṇānvitam || 94 | mūtramutsādane yuktaṃ yuktamālepaneṣu ca | svedeṣvapi ca tadyuktamānāheṣvagadeṣu ca udareṣvatha cārśaḥ su gulmikuṣṭhikilāsiṣu tadyuktamupanāheṣu pariṣeke tathaiva ca | dīpanīyaṃ viṣaghnaṃ ca krimighnaṃ copadiśyate pāṇḍurogopasṛṣṭānāmuttamaṃ śarma cocyate | śleṣmāṇaṃ śamayet pītaṃ mārutaṃ cānulomayet karṣet pittamadhobhāgamityasmin guṇasaṃgrahaḥ | sāmānyena mayoktastu pṛthaktvena pravakṣyate avimūtraṃ satiktaṃ syāt snigdhaṃ pittāvirodhi ca | ājaṃ kaṣāyamadhuraṃ pathyaṃ doṣānnihanti ca",
+        "translation": "The urine of elephants, camels, horses and donkeys is also used. It is hot pungent and then bitter and salty. 94 . Urine is used for destruction and for ointments. It is also used in sweating, in sore throats, in sore throats, in the abdomen, in sore throats, in leprosy, in ulcers, in cosmetics, in irrigation, and so on. It is prescribed as an inflammatory, poisonous and worm-killing agent and is said to be the best remedy for those suffering from jaundice. It relieves mucus, reverses the yellow wind and pulls the lower part of the bile. In general, I have described it separately, but it is non-urinary, bitter, greasy and anti-bile. Today it is alkaline sweet and healthy and kills the evils"
+      },
+      {
+        "verse_number": 101,
+        "sanskrit": "गव्यं समधुरं किंचिद्दोषघ्नं क्रिमिकुष्ठनुत् । कण्डूं च शमयेत् पीतं सम्यग्दोषोदरे हितम्",
+        "transliteration": "gavyaṃ samadhuraṃ kiṃciddoṣaghnaṃ krimikuṣṭhanut | kaṇḍūṃ ca śamayet pītaṃ samyagdoṣodare hitam",
+        "translation": "Cow’s milk is somewhat sweet and destroys evils and relieves worms and leprosy. It also relieves itching and is good for the yellow perfectly faulty stomach"
+      },
+      {
+        "verse_number": 102,
+        "sanskrit": "अर्श शोफोदरघ्नं तु सक्षारं माहिषं सरम् । हास्तिकं लवणं मूत्रं हितं तु क्रिमिकुष्ठिनाम्",
+        "transliteration": "arśa śophodaraghnaṃ tu sakṣāraṃ māhiṣaṃ saram | hāstikaṃ lavaṇaṃ mūtraṃ hitaṃ tu krimikuṣṭhinām",
+        "translation": "It is a salty buffalo juice that kills fever and inflammation of the stomach. Elephant salt and urine are good for worms and leprosy"
+      },
+      {
+        "verse_number": 103,
+        "sanskrit": "प्रशस्तं बद्धविण्मूत्रविषश्लेष्मामयार्शसाम् । सतिक्तं श्वासकासघ्नमर्शोघ्नं चौष्ट्रमुच्यते",
+        "transliteration": "praśastaṃ baddhaviṇmūtraviṣaśleṣmāmayārśasām | satiktaṃ śvāsakāsaghnamarśoghnaṃ cauṣṭramucyate",
+        "translation": "It is recommended for those with constipation, feces, urine, poison, mucus and fever. It is said to be bitter, destroyer of asthma, destroyer of cough and destroyer of fever"
+      },
+      {
+        "verse_number": 104,
+        "sanskrit": "वाजिनां तिक्तकटुकं कुष्ठव्रणविषापहम् । खरमूत्रमपस्मारोन्मादग्रहविनाशनम्",
+        "transliteration": "vājināṃ tiktakaṭukaṃ kuṣṭhavraṇaviṣāpaham | kharamūtramapasmāronmādagrahavināśanam",
+        "translation": "It is bitter and pungent for horses and destroys leprosy, wounds and poison. Donkey urine destroys the planets of forgetfulness and madness"
+      },
+      {
+        "verse_number": 105,
+        "sanskrit": "इतीहोक्तानि मूत्राणि यथासामर्थ्ययोगतः । अतः क्षीराणि वक्ष्यन्ते कर्म चैषां गुणाश्च ये",
+        "transliteration": "itīhoktāni mūtrāṇi yathāsāmarthyayogataḥ | ataḥ kṣīrāṇi vakṣyante karma caiṣāṃ guṇāśca ye",
+        "translation": "These are the urine products mentioned above, according to one’s ability. Therefore the milks and their action and properties will be described"
+      },
+      {
+        "verse_number": 106,
+        "sanskrit": "अविक्षीरमजाक्षीरं गोक्षीरं माहिषं च यत् । उष्ट्रीणामथ नागीनां वडवायाः स्त्रियास्तथा",
+        "transliteration": "avikṣīramajākṣīraṃ gokṣīraṃ māhiṣaṃ ca yat | uṣṭrīṇāmatha nāgīnāṃ vaḍavāyāḥ striyāstathā",
+        "translation": "Whatever is not milked is goat’s milk, cow’s milk or buffalo’s milk. There were camels, serpents, vadavas and women"
+      },
+      {
+        "verse_number": 107,
+        "sanskrit": "प्रायशो मधुरं स्निग्धं शीतं स्तन्यं पयो मतम् । प्रीणनं बृंहणं वृष्यं मेध्यं बल्यं मनस्करम्",
+        "transliteration": "prāyaśo madhuraṃ snigdhaṃ śītaṃ stanyaṃ payo matam | prīṇanaṃ bṛṃhaṇaṃ vṛṣyaṃ medhyaṃ balyaṃ manaskaram",
+        "translation": "Breast milk is usually considered to be sweet, smooth and cold. It is pleasing, enlarging, testicles, sacred, strong and pleasing to the mind"
+      },
+      {
+        "verse_number": 108,
+        "sanskrit": "जीवनीयं श्रमहरं श्वासकासनिबर्हणम् । हन्ति शोणितपित्तं च सन्धानं विहतस्य च",
+        "transliteration": "jīvanīyaṃ śramaharaṃ śvāsakāsanibarhaṇam | hanti śoṇitapittaṃ ca sandhānaṃ vihatasya ca",
+        "translation": "It is a vital remedy for fatigue and relieves breathing and coughing. It kills blood and bile and the joints of the disrupted"
+      },
+      {
+        "verse_number": 109,
+        "sanskrit": "सर्वप्राणभृतां सात्म्यं शमनं शोधनं तथा । तृष्णाघ्नं दीपनीयं च श्रेष्ठं क्षीणक्षतेषु च",
+        "transliteration": "sarvaprāṇabhṛtāṃ sātmyaṃ śamanaṃ śodhanaṃ tathā | tṛṣṇāghnaṃ dīpanīyaṃ ca śreṣṭhaṃ kṣīṇakṣateṣu ca",
+        "translation": "It is a source of peace, soothing and purifying for all living beings. It is thirst quenching and inflammatory and is best in exhausted wounds"
+      },
+      {
+        "verse_number": 111,
+        "sanskrit": "पाण्डुरोगेऽम्लपित्ते च शोषे गुल्मे तथोदरे । अतीसारे ज्वरे दाहे श्वयथौ च विशेषतः ।। ११० । योनिशुक्रप्रदोषेषु मूत्रेष्वप्रचुरेषु च । पुरीषे ग्रथिते पथ्यं वातपित्तविकारिणाम्",
+        "transliteration": "pāṇḍuroge'mlapitte ca śoṣe gulme tathodare | atīsāre jvare dāhe śvayathau ca viśeṣataḥ || 110 | yoniśukrapradoṣeṣu mūtreṣvapracureṣu ca | purīṣe grathite pathyaṃ vātapittavikāriṇām",
+        "translation": "In jaundice, acidic bile, dryness, shrubbery and abdomen. Especially in diarrhea, fever, burning and cough. 110 . When vaginal discharge is not abundant, It is a remedy for the disorders of wind and bile when it is knotted in the urine"
+      },
+      {
+        "verse_number": 112,
+        "sanskrit": "नस्यालेपावगाहेषु वमनास्थापनेषु च । विरेचने स्नेहने च पयः सर्वत्र युज्यते",
+        "transliteration": "nasyālepāvagāheṣu vamanāsthāpaneṣu ca | virecane snehane ca payaḥ sarvatra yujyate",
+        "translation": "When applying ointment to the nose and dipping it, it is also used to place vomit. Milk is used everywhere for laxatives and lubrication"
+      },
+      {
+        "verse_number": 113,
+        "sanskrit": "यथाक्रमं क्षीरगुणानेकैकस्य पृथक्पृथक् । अन्नपानादिकेऽध्याये भूयो वक्ष्याम्यशेषतः",
+        "transliteration": "yathākramaṃ kṣīraguṇānekaikasya pṛthakpṛthak | annapānādike'dhyāye bhūyo vakṣyāmyaśeṣataḥ",
+        "translation": "Separately, the various qualities of milk are prepared in order. I shall explain again in detail in the chapter on food and drink"
+      },
+      {
+        "verse_number": 114,
+        "sanskrit": "अथापरे त्रयो वृक्षाः पृथग्ये फलमूलिभिः । स्नुह्यर्काश्मन्तकास्तेषामिदं कर्म पृथक् पृथक्",
+        "transliteration": "athāpare trayo vṛkṣāḥ pṛthagye phalamūlibhiḥ | snuhyarkāśmantakāsteṣāmidaṃ karma pṛthak pṛthak",
+        "translation": "Then there were three other trees separately with fruits and roots Snuhyarka and Ashmantaka have this action separately"
+      },
+      {
+        "verse_number": 115,
+        "sanskrit": "वमनेऽश्मन्तकं विद्यात् स्नुहीक्षीरं विरेचने । क्षीरमर्कस्य विज्ञेयं वमने सविरेचने",
+        "transliteration": "vamane'śmantakaṃ vidyāt snuhīkṣīraṃ virecane | kṣīramarkasya vijñeyaṃ vamane savirecane",
+        "translation": "For vomiting, it is known to be a stone-killer, and for diarrhea, it is known to be a snuhi milk. Milk of the sun should be understood in vomiting and diarrhea"
+      },
+      {
+        "verse_number": 116,
+        "sanskrit": "इमांस्त्रीनपरान् वृक्षानाहुर्येषां हितास्त्वचः । पूतीकः कृष्णगन्धा च तिल्वकश्च तथा तरुः",
+        "transliteration": "imāṃstrīnaparān vṛkṣānāhuryeṣāṃ hitāstvacaḥ | pūtīkaḥ kṛṣṇagandhā ca tilvakaśca tathā taruḥ",
+        "translation": "These three other trees are said to be good for the skin. Putika, Krishnagandha, Tilvaka and Taru"
+      },
+      {
+        "verse_number": 117,
+        "sanskrit": "विरेचने प्रयोक्तव्यः पूतीकस्तिल्वकस्तथा । कृष्णगन्धा परीसर्पे शोथेष्वर्शःसु चोच्यते",
+        "transliteration": "virecane prayoktavyaḥ pūtīkastilvakastathā | kṛṣṇagandhā parīsarpe śotheṣvarśaḥsu cocyate",
+        "translation": "Putika and tilvaka should be used for laxatives. The black smell is used in inflammations and rashes in the peri-snake"
+      },
+      {
+        "verse_number": 118,
+        "sanskrit": "दविद्रधिगण्डेषु कुष्ठेष्वप्यलजीषु च । षड्वृक्षाच्छोधनानेतानपि विद्याद्विचक्षणः",
+        "transliteration": "davidradhigaṇḍeṣu kuṣṭheṣvapyalajīṣu ca | ṣaḍvṛkṣācchodhanānetānapi vidyādvicakṣaṇaḥ",
+        "translation": "They are also used to treat leprosy and alzheimer’s disease. A wise man should also know these purifications from the six trees"
+      },
+      {
+        "verse_number": 119,
+        "sanskrit": "इत्युक्ताः फलमूलिन्यः स्नेहाश्च लवणानि च । मूत्रं क्षीराणि वृक्षाश्च षड् ये दिष्टपयस्त्वचः",
+        "transliteration": "ityuktāḥ phalamūlinyaḥ snehāśca lavaṇāni ca | mūtraṃ kṣīrāṇi vṛkṣāśca ṣaḍ ye diṣṭapayastvacaḥ",
+        "translation": "These are the fruits, roots, oils and salts mentioned above. Urine milk and the six trees which are the destined milk and skin"
+      },
+      {
+        "verse_number": 120,
+        "sanskrit": "ओषधीर्नामरूपाभ्यां जानते ह्यजपा वने । अविपाश्चैव गोपाश्च ये चान्ये वनवासिनः",
+        "transliteration": "oṣadhīrnāmarūpābhyāṃ jānate hyajapā vane | avipāścaiva gopāśca ye cānye vanavāsinaḥ",
+        "translation": "The herbs in the forest are known by their names and forms. Avipas cowherd men and others living in the forest"
+      },
+      {
+        "verse_number": 122,
+        "sanskrit": "न नामज्ञानमात्रेण रूपज्ञानेन वा पुनः । ओषधीनां परां प्राप्तिं कश्चिद्वेदितुमर्हति ।। १२१ । । योगविन्नामरूपज्ञस्तासां तत्त्वविदुच्यते । किं पुनर्यो विजानीयादोषधीः सर्वथा भिषक्",
+        "transliteration": "na nāmajñānamātreṇa rūpajñānena vā punaḥ | oṣadhīnāṃ parāṃ prāptiṃ kaścidveditumarhati || 121 | | yogavinnāmarūpajñastāsāṃ tattvaviducyate | kiṃ punaryo vijānīyādoṣadhīḥ sarvathā bhiṣak",
+        "translation": "Not by merely knowing the name or by knowing the form. Can anyone know the supreme attainment of herbs 121 . . A knower of the names and forms of yoga is called a knower of the truth of these. What about a physician who knows herbs in every way"
+      },
+      {
+        "verse_number": 123,
+        "sanskrit": "योगमासां तु यो विद्याद्देशकालोपपादितम् । पुरुषं पुरुषं वीक्ष्य स विज्ञेयो भिषक्तमः",
+        "transliteration": "yogamāsāṃ tu yo vidyāddeśakālopapāditam | puruṣaṃ puruṣaṃ vīkṣya sa vijñeyo bhiṣaktamaḥ",
+        "translation": "Anyone who knows the months of yoga are determined by the place and time. He should be understood to be the best of physicians by looking at man after man"
+      },
+      {
+        "verse_number": 124,
+        "sanskrit": "यथा विषं यथा शस्त्रं यथाऽग्निरशनिर्यथा । तथौषधमविज्ञातं विज्ञातममृतं यथा",
+        "transliteration": "yathā viṣaṃ yathā śastraṃ yathā'gniraśaniryathā | tathauṣadhamavijñātaṃ vijñātamamṛtaṃ yathā",
+        "translation": "They are like poison, weapons, fire and thunderbolts. Similarly, medicine is unknown and known is like nectar"
+      },
+      {
+        "verse_number": 125,
+        "sanskrit": "औषधं ह्यनभिज्ञातं नामरूपगुणैस्त्रिभिः । विज्ञातं चापि दुर्युक्तमनर्थायोपपद्यते",
+        "transliteration": "auṣadhaṃ hyanabhijñātaṃ nāmarūpaguṇaistribhiḥ | vijñātaṃ cāpi duryuktamanarthāyopapadyate",
+        "translation": "The drug is not recognized by the three characteristics of name, form and characteristics. And even what is known is misused and leads to evil"
+      },
+      {
+        "verse_number": 126,
+        "sanskrit": "योगादपि विषं तीक्ष्णमुत्तमं भेषजं भवेत् । भेषजं चापि दुर्युक्तं तीक्ष्णं संपद्यते विषम्",
+        "transliteration": "yogādapi viṣaṃ tīkṣṇamuttamaṃ bheṣajaṃ bhavet | bheṣajaṃ cāpi duryuktaṃ tīkṣṇaṃ saṃpadyate viṣam",
+        "translation": "Poison is sharper than yoga and is the best medicine. Even the medicine, which is poorly prepared, becomes sharp and poisonous"
+      },
+      {
+        "verse_number": 127,
+        "sanskrit": "४० तस्मान्न भिषजा युक्तं युक्तिबाह्येन भेषजम् । धीमता किंचिदादेयं जीवितारोग्यकाङ्क्षिणा",
+        "transliteration": "40 tasmānna bhiṣajā yuktaṃ yuktibāhyena bheṣajam | dhīmatā kiṃcidādeyaṃ jīvitārogyakāṅkṣiṇā",
+        "translation": "40 Therefore it is not appropriate for a physician to use medicine outside of logic A wise woman who desires life and health should give something"
+      },
+      {
+        "verse_number": 129,
+        "sanskrit": "कुर्यान्निपतितो मूर्ध्नि सशेषं वासवाशनिः । सशेषमातुरं कुर्यान्न त्वज्ञमतमौषधम् ।। १२८ । । दुःखिताय शयानाय श्रद्दधानाय रोगिणे । यो भेषजमविज्ञाय प्राज्ञमानी प्रयच्छति",
+        "transliteration": "kuryānnipatito mūrdhni saśeṣaṃ vāsavāśaniḥ | saśeṣamāturaṃ kuryānna tvajñamatamauṣadham || 128 | | duḥkhitāya śayānāya śraddadhānāya rogiṇe | yo bheṣajamavijñāya prājñamānī prayacchati",
+        "translation": "After falling on his head, he should perform the Vasavaśaṇi with the rest. The remaining afflicted should not be treated with medicine according to the ignorant. 128 . . For the suffering, the lying down, the faithful, the sick. He who gives medicine without knowing it is wise"
+      },
+      {
+        "verse_number": 130,
+        "sanskrit": "त्यक्तधर्मस्य पापस्य मृत्युभूतस्य दुर्मतेः । नरो नरकपाती स्यात्तस्य संभाषणादपि",
+        "transliteration": "tyaktadharmasya pāpasya mṛtyubhūtasya durmateḥ | naro narakapātī syāttasya saṃbhāṣaṇādapi",
+        "translation": "A sinner who has abandoned religious principles and who is dead is a wicked person A man will fall into hell even from his conversation"
+      },
+      {
+        "verse_number": 131,
+        "sanskrit": "वरमाशीविषविषं क्वथितं ताम्रमेव वा । पीतमत्यग्निसन्तप्ता भक्षिता वाऽप्ययोगुडाः",
+        "transliteration": "varamāśīviṣaviṣaṃ kvathitaṃ tāmrameva vā | pītamatyagnisantaptā bhakṣitā vā'pyayoguḍāḥ",
+        "translation": "It is better to use snake venom or boiled copper. They may be yellow or burnt by fire or eaten by yogurt"
+      },
+      {
+        "verse_number": 132,
+        "sanskrit": "नतु श्रुतवतां वेशं बिभ्रता शरणागतात् । गृहीतमन्नं पानं वा वित्तं वा रोगपीडितात्",
+        "transliteration": "natu śrutavatāṃ veśaṃ bibhratā śaraṇāgatāt | gṛhītamannaṃ pānaṃ vā vittaṃ vā rogapīḍitāt",
+        "translation": "But she did not take refuge in the guise of those who had heard of her. Food or drink or money taken from a person suffering from disease"
+      },
+      {
+        "verse_number": 133,
+        "sanskrit": "भिषग्बुभूषुर्मतिमानतः स्वगुणसम्पदि । परं प्रयत्नमातिष्ठेत् प्राणदः स्याद्यथा नृणाम्",
+        "transliteration": "bhiṣagbubhūṣurmatimānataḥ svaguṇasampadi | paraṃ prayatnamātiṣṭhet prāṇadaḥ syādyathā nṛṇām",
+        "translation": "They wanted to become physicians, and they were intelligent and rich in their own qualities. He should make the utmost effort to be life-giving to men"
+      },
+      {
+        "verse_number": 134,
+        "sanskrit": "तदेव युक्तं भैषज्यं यदारोग्याय कल्पते । स चैव भिषजां श्रेष्ठो रोगेभ्यो यः प्रमोचयेत्",
+        "transliteration": "tadeva yuktaṃ bhaiṣajyaṃ yadārogyāya kalpate | sa caiva bhiṣajāṃ śreṣṭho rogebhyo yaḥ pramocayet",
+        "translation": "That is the only appropriate medicine that is suitable for health. And he is the best of physicians who can deliver from diseases"
+      },
+      {
+        "verse_number": 135,
+        "sanskrit": "सम्यक्प्रयोगं सर्वेषां सिद्धिराख्याति कर्मणाम् । सिद्धिराख्याति सर्वैश्च गुणैर्युक्तं भिषक्तमम्",
+        "transliteration": "samyakprayogaṃ sarveṣāṃ siddhirākhyāti karmaṇām | siddhirākhyāti sarvaiśca guṇairyuktaṃ bhiṣaktamam",
+        "translation": "Proper application describes the perfection of all actions. Siddhi declares him to be a physician endowed with all virtues"
+      },
+      {
+        "verse_number": 136,
+        "sanskrit": "तत्र श्लोकाः आयुर्वेदागमो हेतुरागमस्य प्रवर्तनम् । सूत्रणस्याभ्यनुज्ञानमायुर्वेदस्य निर्णयः",
+        "transliteration": "tatra ślokāḥ āyurvedāgamo heturāgamasya pravartanam | sūtraṇasyābhyanujñānamāyurvedasya nirṇayaḥ",
+        "translation": "There are verses in the Ayurveda Agama and the introduction of the Hetu Agama. The decision of the Ayurveda to approve the formulation"
+      },
+      {
+        "verse_number": 137,
+        "sanskrit": "संपूर्ण कारणं कार्यमायुर्वेदप्रयोजनम् । हेतवश्चैव दोषाश्च भेषजं संग्रहेण च",
+        "transliteration": "saṃpūrṇa kāraṇaṃ kāryamāyurvedaprayojanam | hetavaścaiva doṣāśca bheṣajaṃ saṃgraheṇa ca",
+        "translation": "The whole cause and effect is the purpose of the Ayurveda. Causes and evils and medicines by collection"
+      },
+      {
+        "verse_number": 138,
+        "sanskrit": "रसाः सप्रत्ययद्रव्यास्त्रिविधो द्रव्यसंग्रहः । मूलिन्यश्च फलिन्यश्च स्नेहाश्च लवणानि च",
+        "transliteration": "rasāḥ sapratyayadravyāstrividho dravyasaṃgrahaḥ | mūlinyaśca phalinyaśca snehāśca lavaṇāni ca",
+        "translation": "Juices are substances with suffixes and are a collection of three kinds of substances. Roots and fruits and oils and salts"
+      },
+      {
+        "verse_number": 139,
+        "sanskrit": "मूत्रं क्षीराणि वृक्षाश्च षड् ये क्षीरत्वगाश्रयाः । कर्माणि चैषां सर्वेषां योगायोगगुणागुणाः",
+        "transliteration": "mūtraṃ kṣīrāṇi vṛkṣāśca ṣaḍ ye kṣīratvagāśrayāḥ | karmāṇi caiṣāṃ sarveṣāṃ yogāyogaguṇāguṇāḥ",
+        "translation": "Urine, milk and the six trees that are under the skin of milk. And the actions of all these are the qualities of Yoga and Yoga"
+      },
+      {
+        "verse_number": 140,
+        "sanskrit": "वैद्यापवादो यत्रस्थाः सर्वे च भिषजां गुणाः । सर्वमेतत् समाख्यातं पूर्वाध्याये महर्षिणा",
+        "transliteration": "vaidyāpavādo yatrasthāḥ sarve ca bhiṣajāṃ guṇāḥ | sarvametat samākhyātaṃ pūrvādhyāye maharṣiṇā",
+        "translation": "There are all the virtues of a physician, and all the qualities of a physician are present. All this has been narrated by the great sage in the previous chapter"
+      },
+      {
+        "verse_number": 130,
+        "sanskrit": "इत्यग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते श्लोकस्थाने दीर्घञ्जीवितीयो नाम प्रथमोऽध्यायः ।। १॥",
+        "transliteration": "ityagniveśakṛte tantre carakapratisaṃskṛte ślokasthāne dīrghañjīvitīyo nāma prathamo'dhyāyaḥ || 1||",
+        "translation": "This is the first chapter of the Tantras composed by Agnivesh, revised by Charaka, in the place of verses, entitled Dirghanjivitiya. 1॥"
+      }
+    ],
+    "verse_groups": [
+      "1",
+      "2",
+      "3",
+      "4-5",
+      "6-7",
+      "8-14",
+      "15-17",
+      "18-23",
+      "24",
+      "25-26",
+      "27-29",
+      "30-31",
+      "32-40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46-47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59-61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "1",
+      "67",
+      "68-73",
+      "74-76",
+      "77-79",
+      "80-85",
+      "86-87",
+      "88-91",
+      "92-104",
+      "105-113",
+      "114-115",
+      "116-119",
+      "120-123",
+      "124-125",
+      "126-133",
+      "134",
+      "135",
+      "136-140",
+      "1"
+    ]
+  }
+}

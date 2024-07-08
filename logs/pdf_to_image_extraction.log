@@ -1,0 +1,86 @@
+2024-07-08 08:28:31,168 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 08:28:31,239 INFO:Initialized Document AI client
+2024-07-08 08:32:18,776 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 08:32:18,822 INFO:Initialized Document AI client
+2024-07-08 08:34:58,896 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 08:34:58,942 INFO:Initialized Document AI client
+2024-07-08 08:34:58,944 INFO:Starting PDF to image extraction for pages 1 to 12
+2024-07-08 08:35:05,071 INFO:Document processing complete. Pages processed: 12
+2024-07-08 08:35:07,318 INFO:Saved ExtractedImage/S1-Chapter1/page_0001.png
+2024-07-08 08:35:09,580 INFO:Saved ExtractedImage/S1-Chapter1/page_0002.png
+2024-07-08 08:35:11,897 INFO:Saved ExtractedImage/S1-Chapter1/page_0003.png
+2024-07-08 08:35:14,091 INFO:Saved ExtractedImage/S1-Chapter1/page_0004.png
+2024-07-08 08:35:16,312 INFO:Saved ExtractedImage/S1-Chapter1/page_0005.png
+2024-07-08 08:35:18,565 INFO:Saved ExtractedImage/S1-Chapter1/page_0006.png
+2024-07-08 08:35:20,848 INFO:Saved ExtractedImage/S1-Chapter1/page_0007.png
+2024-07-08 08:35:22,986 INFO:Saved ExtractedImage/S1-Chapter1/page_0008.png
+2024-07-08 08:35:25,136 INFO:Saved ExtractedImage/S1-Chapter1/page_0009.png
+2024-07-08 08:35:27,330 INFO:Saved ExtractedImage/S1-Chapter1/page_0010.png
+2024-07-08 08:35:29,621 INFO:Saved ExtractedImage/S1-Chapter1/page_0011.png
+2024-07-08 08:35:31,754 INFO:Saved ExtractedImage/S1-Chapter1/page_0012.png
+2024-07-08 08:35:31,757 INFO:PDF to image extraction completed
+2024-07-08 10:37:44,098 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 10:37:44,157 INFO:Initialized Document AI client
+2024-07-08 10:37:44,159 INFO:Starting PDF to image extraction for pages 1 to 10
+2024-07-08 10:37:48,884 INFO:Document processing complete. Pages processed: 4
+2024-07-08 10:37:51,089 INFO:Saved ExtractedImage/S1-Chapter2/page_0001.png
+2024-07-08 10:37:53,348 INFO:Saved ExtractedImage/S1-Chapter2/page_0002.png
+2024-07-08 10:37:55,502 INFO:Saved ExtractedImage/S1-Chapter2/page_0003.png
+2024-07-08 10:37:57,473 INFO:Saved ExtractedImage/S1-Chapter2/page_0004.png
+2024-07-08 10:37:57,475 INFO:PDF to image extraction completed
+2024-07-08 12:18:31,293 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 12:18:31,370 INFO:Initialized Document AI client
+2024-07-08 12:18:31,371 INFO:Starting PDF to image extraction for pages 1 to 10
+2024-07-08 12:18:37,077 INFO:Document processing complete. Pages processed: 4
+2024-07-08 12:18:39,197 INFO:Saved ExtractedImage/S1-Chapter2/page_0001.png
+2024-07-08 12:18:41,358 INFO:Saved ExtractedImage/S1-Chapter2/page_0002.png
+2024-07-08 12:18:43,508 INFO:Saved ExtractedImage/S1-Chapter2/page_0003.png
+2024-07-08 12:18:45,963 INFO:Saved ExtractedImage/S1-Chapter2/page_0004.png
+2024-07-08 12:18:45,966 INFO:PDF to image extraction completed
+2024-07-08 12:19:27,383 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 12:19:27,439 INFO:Initialized Document AI client
+2024-07-08 12:19:27,441 INFO:Starting PDF to image extraction for pages 1 to 10
+2024-07-08 12:19:32,280 INFO:Document processing complete. Pages processed: 4
+2024-07-08 12:19:34,491 INFO:Saved ExtractedImage/S1-Chapter2/page_0001.png
+2024-07-08 12:19:36,773 INFO:Saved ExtractedImage/S1-Chapter2/page_0002.png
+2024-07-08 12:19:38,967 INFO:Saved ExtractedImage/S1-Chapter2/page_0003.png
+2024-07-08 12:19:40,923 INFO:Saved ExtractedImage/S1-Chapter2/page_0004.png
+2024-07-08 12:19:40,925 INFO:PDF to image extraction completed
+2024-07-08 12:20:02,977 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 12:20:02,995 INFO:Initialized Document AI client
+2024-07-08 12:20:02,997 INFO:Starting PDF to image extraction for pages 1 to 10
+2024-07-08 12:20:07,479 INFO:Document processing complete. Pages processed: 4
+2024-07-08 12:20:09,610 INFO:Saved ExtractedImage/S1-Chapter3/page_0001.png
+2024-07-08 12:20:11,810 INFO:Saved ExtractedImage/S1-Chapter3/page_0002.png
+2024-07-08 12:20:14,018 INFO:Saved ExtractedImage/S1-Chapter3/page_0003.png
+2024-07-08 12:20:16,178 INFO:Saved ExtractedImage/S1-Chapter3/page_0004.png
+2024-07-08 12:20:16,181 INFO:PDF to image extraction completed
+2024-07-08 12:32:41,095 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 12:32:41,151 INFO:Initialized Document AI client
+2024-07-08 12:32:41,152 INFO:Starting PDF to image extraction for pages 1 to 10
+2024-07-08 12:32:47,435 INFO:Document processing complete. Pages processed: 9
+2024-07-08 12:32:49,657 INFO:Saved ExtractedImage/S1-Chapter4/page_0001.png
+2024-07-08 12:32:52,112 INFO:Saved ExtractedImage/S1-Chapter4/page_0002.png
+2024-07-08 12:32:54,225 INFO:Saved ExtractedImage/S1-Chapter4/page_0003.png
+2024-07-08 12:32:56,621 INFO:Saved ExtractedImage/S1-Chapter4/page_0004.png
+2024-07-08 12:32:59,052 INFO:Saved ExtractedImage/S1-Chapter4/page_0005.png
+2024-07-08 12:33:01,156 INFO:Saved ExtractedImage/S1-Chapter4/page_0006.png
+2024-07-08 12:33:03,261 INFO:Saved ExtractedImage/S1-Chapter4/page_0007.png
+2024-07-08 12:33:05,691 INFO:Saved ExtractedImage/S1-Chapter4/page_0008.png
+2024-07-08 12:33:07,992 INFO:Saved ExtractedImage/S1-Chapter4/page_0009.png
+2024-07-08 12:33:07,995 INFO:PDF to image extraction completed
+2024-07-08 12:37:16,656 DEBUG:Checking csprocessor-service-account.json for explicit credentials as part of auth process...
+2024-07-08 12:37:16,682 INFO:Initialized Document AI client
+2024-07-08 12:37:16,683 INFO:Starting PDF to image extraction for pages 1 to 10
+2024-07-08 12:37:23,274 INFO:Document processing complete. Pages processed: 10
+2024-07-08 12:37:25,375 INFO:Saved ExtractedImage/S1-Chapter5/page_0001.png
+2024-07-08 12:37:27,637 INFO:Saved ExtractedImage/S1-Chapter5/page_0002.png
+2024-07-08 12:37:29,687 INFO:Saved ExtractedImage/S1-Chapter5/page_0003.png
+2024-07-08 12:37:31,851 INFO:Saved ExtractedImage/S1-Chapter5/page_0004.png
+2024-07-08 12:37:33,997 INFO:Saved ExtractedImage/S1-Chapter5/page_0005.png
+2024-07-08 12:37:36,269 INFO:Saved ExtractedImage/S1-Chapter5/page_0006.png
+2024-07-08 12:37:38,376 INFO:Saved ExtractedImage/S1-Chapter5/page_0007.png
+2024-07-08 12:37:40,477 INFO:Saved ExtractedImage/S1-Chapter5/page_0008.png
+2024-07-08 12:37:42,860 INFO:Saved ExtractedImage/S1-Chapter5/page_0009.png
+2024-07-08 12:37:45,088 INFO:Saved ExtractedImage/S1-Chapter5/page_0010.png
+2024-07-08 12:37:45,091 INFO:PDF to image extraction completed
