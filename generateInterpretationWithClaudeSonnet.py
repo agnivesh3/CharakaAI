@@ -7,7 +7,7 @@ from requests.exceptions import RequestException
 
 def call_claude_api(prompt, retries=3, delay=5):
     api_url = "https://api.anthropic.com/v1/messages"
-    api_key = "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"  # Replace with your actual API key
+    api_key = ""  
 
     headers = {
         "Content-Type": "application/json",
