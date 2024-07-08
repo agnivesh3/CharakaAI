@@ -4,7 +4,53 @@ Here is a more professional version of your README notes:
 
 # CharakaAI - Processing Workflow
 
-## Steps to Process the Book
+
+### Generate Complete Interpretation by Claude Sonnet 3.5
+
+This script generateInterpretationByClaudeSonnet.py processes Sanskrit verses from the Charaka Samhita, leveraging the Claude AI model for translation and in-depth analysis. Here's an overview of its functionality:
+
+1. **Input Processing**: Reads Sanskrit verses from a JSON file in a specified directory structure.
+
+2. **Claude AI Integration**:
+   - Utilizes the Claude API (version 3-5-sonnet-20240620) for verse analysis.
+   - Sends carefully crafted prompts to Claude for each verse or verse group.
+   - The prompt instructs Claude to provide:
+     * An accurate English translation
+     * Explanation of key Sanskrit terms and concepts
+     * Context and significance within Ayurvedic literature
+     * Detailed interpretation of the verses
+     * Discussion of related Ayurvedic principles and applications
+     * A concise conclusion summarizing key points
+
+3. **API Interaction**:
+   - Implements a robust API calling function with retry mechanism.
+   - Handles potential API errors and network issues gracefully.
+
+4. **Response Processing**:
+   - Parses Claude's responses into structured sections.
+   - Organizes the AI-generated content into a comprehensive analysis format.
+
+5. **Output Generation**:
+   - Creates two output files:
+     a. A detailed JSON file containing all analyses
+     b. A formatted text file for easier reading
+
+6. **Logging**: Maintains a detailed log of the entire process, including API interactions and any errors encountered.
+
+This script demonstrates an advanced application of Claude 3.5 Sonnet in scholarly text analysis, showcasing how Claude can be used for complex tasks like translating and interpreting ancient medical texts. It provides a framework for processing large volumes of Sanskrit text, making it valuable for researchers and scholars in Ayurvedic studies.
+
+**Instructions:**
+- Modify the input path for the JSON according to the chapter number.
+- Logs are written to `InterpretationByClaude/logs/Chapter number`.
+- Run the script using the command:
+  ```sh
+  python3 generateInterpretationByClaudeSonnet.py
+  ```
+
+---
+
+## Pre-requisites
+
 
 ### 1. Extract Chapters into Individual PDFs
 
@@ -55,48 +101,6 @@ The script `GenerateCompleteJson.py` will use the base JSON from the previous st
   python3 GenerateCompleteJson.py
   ```
 
-### 5. Generate Complete Interpretation by Claude Sonnet 3.5
 
-This Python script generateInterpretationByClaudeSonnet.py processes Sanskrit verses from the Charaka Samhita, leveraging the Claude AI model for translation and in-depth analysis. Here's an overview of its functionality:
-
-1. **Input Processing**: Reads Sanskrit verses from a JSON file in a specified directory structure.
-
-2. **Claude AI Integration**:
-   - Utilizes the Claude API (version 3-5-sonnet-20240620) for verse analysis.
-   - Sends carefully crafted prompts to Claude for each verse or verse group.
-   - The prompt instructs Claude to provide:
-     a. An accurate English translation
-     b. Explanation of key Sanskrit terms and concepts
-     c. Context and significance within Ayurvedic literature
-     d. Detailed interpretation of the verses
-     e. Discussion of related Ayurvedic principles and applications
-     f. A concise conclusion summarizing key points
-
-3. **API Interaction**:
-   - Implements a robust API calling function with retry mechanism.
-   - Handles potential API errors and network issues gracefully.
-
-4. **Response Processing**:
-   - Parses Claude's responses into structured sections.
-   - Organizes the AI-generated content into a comprehensive analysis format.
-
-5. **Output Generation**:
-   - Creates two output files:
-     a. A detailed JSON file containing all analyses
-     b. A formatted text file for easier reading
-
-6. **Logging**: Maintains a detailed log of the entire process, including API interactions and any errors encountered.
-
-This script demonstrates an advanced application of AI in scholarly text analysis, showcasing how Claude can be used for complex tasks like translating and interpreting ancient medical texts. It provides a framework for processing large volumes of Sanskrit text, making it valuable for researchers and scholars in Ayurvedic studies.
-
-**Instructions:**
-- Modify the input path for the JSON according to the chapter number.
-- Logs are written to `InterpretationByClaude/logs/Chapter number`.
-- Run the script using the command:
-  ```sh
-  python3 generateInterpretationByClaudeSonnet.py
-  ```
-
----
 
 These steps will guide you through processing your book into a structured format with transliterations, translations, and interpretations.
