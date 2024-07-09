@@ -73,7 +73,7 @@ The script `BookToImageSplitToEachPage.py` will split each PDF into individual p
 
 ### 3. Generate Base JSON from Images
 
-The script `ImageToBaseJson.py` will process all the images created in the previous step and generate a base JSON file. This JSON will contain Sanskrit verses and their logical groupings based on the provided English translation. This serves as a baseline for subsequent steps to generate transliteration and translation using the GCP Translate API.
+The script `ImageToBaseJson.py` will process all the images created in the previous step and generate a base JSON file. This JSON will contain Sanskrit verses and their logical groupings based on the provided English translation. This serves as a baseline for subsequent steps to complete the interpretation using Claude 3.5 Sonnet.
 
 **Instructions:**
 - Modify the following parameters:
@@ -87,7 +87,7 @@ The script `ImageToBaseJson.py` will process all the images created in the previ
 
 ### 4. Generate Complete JSON with Transliteration and Translation
 
-The script `GenerateCompleteJson.py` will use the base JSON from the previous step, apply `indic_transliteration` for transliteration, and use the Google Translate API to translate the Sanskrit verses into English.
+The script `GenerateCompleteJson.py` will use the base JSON from the previous step, apply `indic_transliteration` for transliteration, and use the Google Translate API to translation the Sanskrit verses into English.
 
 **Instructions:**
 - Modify the input and output JSON paths in lines 88 and 89.
